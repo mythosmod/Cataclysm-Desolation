@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "desolation",
+    "name": "Cataclysm: Desolation - A Post Post-Apocalyptic Mod for Cataclysm: Bright Nights",
+    "authors": [ "mythosmod" ],
+    "maintainers": [ "mythosmod" ],
+    "description": "A Post Post-Apocalyptic Mod for Cataclysm: Bright Nights:\n- A ruined world, with may years passing since the original cataclysm.\n\nSee extended description in README.md.",
+    "category": "content",
+    "dependencies": [ "bn" ],
+    "version": "0.1"
+  }
+]
