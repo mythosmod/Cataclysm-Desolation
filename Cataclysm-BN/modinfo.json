@@ -7,6 +7,7 @@
     "maintainers": [ "mythosmod" ],
     "description": "A Post Post-Apocalyptic Mod for Cataclysm: Bright Nights:\n- A ruined world, with may years passing since the original cataclysm.\n\nSee extended description in README.md.",
     "category": "content",
+    "obsolete": false,
     "dependencies": [ "bn" ],
     "version": "0.1"
   }
